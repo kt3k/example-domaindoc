@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/kt3k/example-domaindoc#readme",
   "devDependencies": {
-    "domaindoc": "^1.4.0"
+    "domaindoc": "^1.4.2"
   }
 }

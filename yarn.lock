@@ -383,9 +383,9 @@ detect-file@^0.1.0:
   dependencies:
     fs-exists-sync "^0.1.0"
 
-domaindoc@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/domaindoc/-/domaindoc-1.4.0.tgz#c33c24b80d224cc52d789db798acdd014d2c1908"
+domaindoc@^1.4.2:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/domaindoc/-/domaindoc-1.4.2.tgz#2b172d5ec9fb384a2d3eed495b009d5bbc4fd998"
   dependencies:
     bulbo "^6.3.0"
     chalk "^1.1.3"
