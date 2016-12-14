@@ -1,0 +1,27 @@
+{
+  "name": "example-domaindoc",
+  "version": "1.0.0",
+  "description": "Example of domaindoc usage",
+  "scripts": {
+    "test": "npm run build",
+    "build": "domaindoc build",
+    "serve": "domaindoc serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kt3k/example-domaindoc.git"
+  },
+  "keywords": [
+    "domaindoc",
+    "example"
+  ],
+  "author": "Yoshiya Hinosawa <stibium121@gmail.com> (https://twitter.com/kt3k)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kt3k/example-domaindoc/issues"
+  },
+  "homepage": "https://github.com/kt3k/example-domaindoc#readme",
+  "devDependencies": {
+    "domaindoc": "^1.4.0"
+  }
+}
